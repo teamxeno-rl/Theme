@@ -38,7 +38,7 @@ html.theme-light::before {
     left: 0;
 }
 .theme-dark {
-    --background-primary: url(https://i2.wp.com/ih0.redbubble.net/image.196412026.4762/pp,550x550.jpg));
+    --background-primary: var(--wildberry-primary);
     --background-secondary: var(--wildberry-secondary);
     --background-secondary-alt: var(--wildberry-secondary-alt);
     --background-floating: var(--wildberry-secondary);
