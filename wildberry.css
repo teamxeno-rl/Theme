@@ -1,8 +1,9 @@
 /**
  * @name Wildberry
+ * @author Y4BUT0
+ * @authorid 259101323700600833
  * @version 1.0.0
- * @description: Inspired by a Pop Tart flavour enjoy a berry inspired color storm for discord.
- * @website https://github.com/DagCord/Wildberry
+ * @description: Custom theme made for Kyro_The_Little_Wolfie
  */
 
 
@@ -37,7 +38,7 @@ html.theme-light::before {
     left: 0;
 }
 .theme-dark {
-    --background-primary: var(--wildberry-primary);
+    --background-primary: url(https://i2.wp.com/ih0.redbubble.net/image.196412026.4762/pp,550x550.jpg));
     --background-secondary: var(--wildberry-secondary);
     --background-secondary-alt: var(--wildberry-secondary-alt);
     --background-floating: var(--wildberry-secondary);
